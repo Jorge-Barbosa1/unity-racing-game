@@ -1,12 +1,10 @@
 # Unity Racing Game
 
-> **Suggested repo description:** *Unity 3D racing game with lap timing, single-player and 1v1 modes, and multiple track environments.*
->
-> **Suggested topics:** `unity`, `unity3d`, `csharp`, `racing-game`, `game-development`, `easyroads3d`
-
 A 3D racing game built in Unity for the **Multimedia Technologies** course in the Bachelor's Degree in Informatics Engineering at IPVC. Drive around custom-built tracks, with lap timing, configurable game modes, and audio-reactive engine sound.
 
-![gameplay](docs/demo.gif) <!-- add a screenshot or short GIF before publishing -->
+**▶ [Play it on itch.io](https://jorgemvb.itch.io/rallyracer2)**
+
+<img src="Assets/Images/UI_Image.png" alt="Rally Racer menu art" width="600">
 
 ## Features
 
